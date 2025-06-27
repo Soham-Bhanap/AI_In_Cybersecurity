@@ -1,0 +1,1 @@
+{"feature_selector__k": 15, "stack__final_estimator__n_estimators": 50, "stack__svm__C": 10, "stack__svm__gamma": "scale", "stack__xgb__learning_rate": 0.2, "stack__xgb__max_depth": 5}
