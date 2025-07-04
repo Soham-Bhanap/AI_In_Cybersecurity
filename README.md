@@ -60,9 +60,8 @@ A GPU-optimized deep neural ensemble model (`ForestNet`) to classify URLs into s
 ---
 
 ## 📦 Installation & Usage
-
 ### ✅ Prerequisites
 ```bash
-pip install -r requirements.txt
-# or manually install:
+# manually install:
 pip install streamlit scikit-learn xgboost imbalanced-learn torch joblib numpy pandas
+
