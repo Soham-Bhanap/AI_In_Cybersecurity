@@ -64,4 +64,22 @@ A GPU-optimized deep neural ensemble model (`ForestNet`) to classify URLs into s
 ```bash
 # manually install:
 pip install streamlit scikit-learn xgboost imbalanced-learn torch joblib numpy pandas
+```
+### Project Structure
+.
+├── traffic_classification/
+│   ├── SVM_classifier.ipynb
+│   ├── model.pkl
+│   ├── label_encoder.pkl
+│   |── app.py
+|   └──TimeBasedFeatures-Dataset-15s-VPN.arff
+│
+├── threat_url_classifier/
+│   ├── Threat_testing.ipynb
+│   ├── gpu_forest_model.pth
+│   ├── label_encoder.pkl
+|   ├── malicious_phish.csv
+│   └── app.py
+│
+├── README.md
 
