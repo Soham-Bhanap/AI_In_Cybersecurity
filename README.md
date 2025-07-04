@@ -64,7 +64,6 @@ A GPU-optimized deep neural ensemble model (`ForestNet`) to classify URLs into s
 ```bash
 # manually install:
 pip install streamlit scikit-learn xgboost imbalanced-learn torch joblib numpy pandas
-```
 ### Project Structure
 .
 ├── traffic_classification/
@@ -82,4 +81,4 @@ pip install streamlit scikit-learn xgboost imbalanced-learn torch joblib numpy p
 │   └── app.py
 │
 ├── README.md
-
+```
