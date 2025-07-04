@@ -70,15 +70,16 @@ pip install streamlit scikit-learn xgboost imbalanced-learn torch joblib numpy p
 │   ├── SVM_classifier.ipynb
 │   ├── model.pkl
 │   ├── label_encoder.pkl
-│   |── app.py
-|   └──TimeBasedFeatures-Dataset-15s-VPN.arff
+│   ├── app.py
+│   └── TimeBasedFeatures-Dataset-15s-VPN.arff
 │
 ├── threat_url_classifier/
 │   ├── Threat_testing.ipynb
 │   ├── gpu_forest_model.pth
 │   ├── label_encoder.pkl
-|   ├── malicious_phish.csv
+│   ├── malicious_phish.csv
 │   └── app.py
 │
 ├── README.md
+
 ```
