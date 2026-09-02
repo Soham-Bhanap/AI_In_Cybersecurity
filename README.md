@@ -23,7 +23,7 @@ An AI-based system that classifies encrypted network traffic using advanced feat
 
 #### 📁 Key Files:
 - `traffic_classifier_notebook.ipynb`: Jupyter Notebook for training.
-- `model.pkl`, `label_encoder.pkl`: Serialized trained model.
+- `model.pkl`, `encrypted_traffic_classifier_reused.pkl`: Serialized trained model.
 - `app.py`: Streamlit interface for real-time traffic prediction.
 
 ---
